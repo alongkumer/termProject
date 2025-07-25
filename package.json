@@ -1,0 +1,20 @@
+{
+  "name": "termproject",
+  "version": "1.0.0",
+  "description": "Final term project for COSC2956",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch scss:css --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alongkumer"
+  },
+  "author": "Aren",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2"
+  }
+}
